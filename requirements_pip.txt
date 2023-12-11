@@ -1,0 +1,15 @@
+Django
+gunicorn
+pillow
+idna
+pytz
+requests
+sqlparse
+urllib3
+six
+gunicorn
+django-simple-captcha
+django-ranged-response
+chardet
+certifi
+asgiref
